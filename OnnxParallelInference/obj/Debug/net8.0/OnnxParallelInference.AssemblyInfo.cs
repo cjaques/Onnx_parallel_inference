@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OnnxParallelInference")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a66e28164fa5691a19452e8ad274bba5c5a0ff8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8da6a6b8551f92baa000d30ad0dac3f707657948")]
 [assembly: System.Reflection.AssemblyProductAttribute("OnnxParallelInference")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OnnxParallelInference")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
